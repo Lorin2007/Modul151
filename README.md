@@ -17,3 +17,9 @@ Um das Projekt über den Apache-Server laufen zu lassen, muss es im `htdocs`-Ord
 2. Erstelle dort einen neuen Ordner für dieses Projekt (z. B. `Modul151-projekt-name`) oder clone das Repository direkt dorthin:
    ```bash
    git clone [https://github.com/DEIN-BENUTZERNAME/DEIN-REPOSITORY.git](https://github.com/DEIN-BENUTZERNAME/DEIN-REPOSITORY.git)
+
+Projekt in Visual Studio Code öffnen
+
+1. Navigiere im Windows-Explorer zu `C:\xampp\htdocs\`.
+2. Mache einen **Rechtsklick** auf den Projektordner.
+3. Wähle **"Mit Visual Studio Code öffnen"**
